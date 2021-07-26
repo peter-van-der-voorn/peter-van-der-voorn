@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peter-van-der-voorn
-- 🌱 I’m currently learning Full Stack Development with HTML, CSS & JavaScript through EDA
+- 🌱 Junior Full-Stack Web Developer
 - 📫 How to reach me:
 peteranthonius@gmail.com
 
